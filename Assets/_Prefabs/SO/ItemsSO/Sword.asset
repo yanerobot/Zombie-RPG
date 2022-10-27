@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3371a250755a1404f90f927b56730049, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  tabType: 1
+  slotType: 10
+  id: 1
+  displayName: Sword
+  icon: {fileID: 21300000, guid: 4bf6d25e0ff0eda47925ba9ad949f602, type: 3}
+  prefab: {fileID: 1296794830048011560, guid: c1772398df235ca4681c2d9c6f2ee366, type: 3}
+  equippedSlotPrefab: {fileID: 2217759349371533820, guid: 7d524fe50486f3b4693f0c4f5b808bf1, type: 3}
+  description: Simple one handed sword. Effective against weaker enemies
+  damage: 20
+  weight: 4
+  durability: 100

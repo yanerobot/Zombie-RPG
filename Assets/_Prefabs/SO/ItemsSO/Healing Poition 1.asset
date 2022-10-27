@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b126e5d67178ee7418408dd0c0f37a50, type: 3}
+  m_Name: Healing Poition 1
+  m_EditorClassIdentifier: 
+  tabType: 4
+  id: 2
+  displayName: Healing Potion
+  icon: {fileID: 21300000, guid: 9aec19f3444eba942b5cd00fb33a7057, type: 3}
+  prefab: {fileID: 8738375383997138697, guid: 304afb4a22179de439b61fb46470bc8e, type: 3}
+  description: Small healing potion. Restores 30hp
+  effectAmount: 30
